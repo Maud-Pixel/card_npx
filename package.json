@@ -1,5 +1,5 @@
 {
-  "name": "@maudleleux/npx_card",
+  "name": "@maudleleux/npxcard",
   "version": "1.2.0",
   "description": "My resume format npx_card",
   "main": "npx_card.js",
